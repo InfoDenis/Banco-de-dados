@@ -1,2 +1,2 @@
-# Banco-de-dados
+# BancoDeDados
 Exercícios das aulas de banco de dados
